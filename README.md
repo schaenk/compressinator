@@ -1,7 +1,7 @@
 compressinator
 ==============
 
-Lightweight PHP class which generates compressed CSS and JavaScript files
+Lightweight PHP class which generates compressed / minified CSS and JavaScript files
 
 
 Usage
