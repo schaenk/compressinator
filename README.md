@@ -24,3 +24,5 @@ $compressinator->compressJs(
 	array('ignore_me.js', 'me_as_well.js')
 );
 ```
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/163f1c7a62aa2f702dd61082773a09d9 "githalytics.com")](http://githalytics.com/schaenk/compressinator)
